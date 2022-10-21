@@ -1,0 +1,25 @@
+{
+  "name": "googlechatrssbot",
+  "description": "",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "jsdom": "^20.0.1",
+    "node-fetch": "^3.2.10",
+    "rss-feed-emitter": "^3.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheJenos/GoogleChatRSSBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheJenos/GoogleChatRSSBot/issues"
+  },
+  "homepage": "https://github.com/TheJenos/GoogleChatRSSBot#readme"
+}
